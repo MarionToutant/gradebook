@@ -1,4 +1,8 @@
 C:\Users\Marion\Documents\Perso\Dev\gradebook\test\GradeBook.Tests\bin\Debug\net5.0\testhost.dll
+C:\Users\Marion\Documents\Perso\Dev\gradebook\test\GradeBook.Tests\bin\Debug\net5.0\GradeBook.deps.json
+C:\Users\Marion\Documents\Perso\Dev\gradebook\test\GradeBook.Tests\bin\Debug\net5.0\GradeBook.runtimeconfig.json
+C:\Users\Marion\Documents\Perso\Dev\gradebook\test\GradeBook.Tests\bin\Debug\net5.0\GradeBook.runtimeconfig.dev.json
+C:\Users\Marion\Documents\Perso\Dev\gradebook\test\GradeBook.Tests\bin\Debug\net5.0\GradeBook.exe
 C:\Users\Marion\Documents\Perso\Dev\gradebook\test\GradeBook.Tests\bin\Debug\net5.0\testhost.exe
 C:\Users\Marion\Documents\Perso\Dev\gradebook\test\GradeBook.Tests\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Users\Marion\Documents\Perso\Dev\gradebook\test\GradeBook.Tests\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
@@ -88,6 +92,8 @@ C:\Users\Marion\Documents\Perso\Dev\gradebook\test\GradeBook.Tests\bin\Debug\net
 C:\Users\Marion\Documents\Perso\Dev\gradebook\test\GradeBook.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\Marion\Documents\Perso\Dev\gradebook\test\GradeBook.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\Marion\Documents\Perso\Dev\gradebook\test\GradeBook.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Marion\Documents\Perso\Dev\gradebook\test\GradeBook.Tests\bin\Debug\net5.0\GradeBook.dll
+C:\Users\Marion\Documents\Perso\Dev\gradebook\test\GradeBook.Tests\bin\Debug\net5.0\GradeBook.pdb
 C:\Users\Marion\Documents\Perso\Dev\gradebook\test\GradeBook.Tests\obj\Debug\net5.0\GradeBook.Tests.csprojAssemblyReference.cache
 C:\Users\Marion\Documents\Perso\Dev\gradebook\test\GradeBook.Tests\obj\Debug\net5.0\GradeBook.Tests.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Marion\Documents\Perso\Dev\gradebook\test\GradeBook.Tests\obj\Debug\net5.0\GradeBook.Tests.AssemblyInfoInputs.cache
@@ -98,9 +104,3 @@ C:\Users\Marion\Documents\Perso\Dev\gradebook\test\GradeBook.Tests\obj\Debug\net
 C:\Users\Marion\Documents\Perso\Dev\gradebook\test\GradeBook.Tests\obj\Debug\net5.0\ref\GradeBook.Tests.dll
 C:\Users\Marion\Documents\Perso\Dev\gradebook\test\GradeBook.Tests\obj\Debug\net5.0\GradeBook.Tests.pdb
 C:\Users\Marion\Documents\Perso\Dev\gradebook\test\GradeBook.Tests\obj\Debug\net5.0\GradeBook.Tests.genruntimeconfig.cache
-C:\Users\Marion\Documents\Perso\Dev\gradebook\test\GradeBook.Tests\bin\Debug\net5.0\GradeBook.deps.json
-C:\Users\Marion\Documents\Perso\Dev\gradebook\test\GradeBook.Tests\bin\Debug\net5.0\GradeBook.runtimeconfig.json
-C:\Users\Marion\Documents\Perso\Dev\gradebook\test\GradeBook.Tests\bin\Debug\net5.0\GradeBook.runtimeconfig.dev.json
-C:\Users\Marion\Documents\Perso\Dev\gradebook\test\GradeBook.Tests\bin\Debug\net5.0\GradeBook.exe
-C:\Users\Marion\Documents\Perso\Dev\gradebook\test\GradeBook.Tests\bin\Debug\net5.0\GradeBook.dll
-C:\Users\Marion\Documents\Perso\Dev\gradebook\test\GradeBook.Tests\bin\Debug\net5.0\GradeBook.pdb

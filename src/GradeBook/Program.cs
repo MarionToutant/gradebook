@@ -1,15 +1,28 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace GradeBook
+namespace GradeBook // Namespace
 {
-    class Program
+    class Program // Class
     {
-        static void Main(string[] args)
+        static void Main(string[] args) // Static methods are not associated with objects instances, but with classes (types) that they are defined inside of
         {
-            var book = new Book("Marion's Grade Book");
+            IBook book = new DiskBook("Marion's Grade Book");
             book.GradeAdded += OnGradeAdded;
 
+            EnterGrades(book);
+
+            var stats = book.GetStatistics();
+
+            Console.WriteLine($"For the book named {book.Name}");
+            Console.WriteLine($"The average grade is {stats.Average:N1}");
+            Console.WriteLine($"The highest grade is {stats.High:N1}");
+            Console.WriteLine($"The lowest grade is {stats.Low:N1}");
+            Console.WriteLine($"The letter grade is {stats.Letter}");
+        }
+
+        private static void EnterGrades(IBook book)
+        {
             while(true)
             {
                 Console.WriteLine("Please enter a grade, or 'q' to quit:");
@@ -37,15 +50,6 @@ namespace GradeBook
                     Console.WriteLine("**");
                 }
             }
-
-            var stats = book.GetStatistics();
-
-            Console.WriteLine(Book.CATEGORY);
-            Console.WriteLine($"For the book named {book.Name}");
-            Console.WriteLine($"The average grade is {stats.Average:N1}");
-            Console.WriteLine($"The highest grade is {stats.High:N1}");
-            Console.WriteLine($"The lowest grade is {stats.Low:N1}");
-            Console.WriteLine($"The letter grade is {stats.Letter}");
         }
 
         static void OnGradeAdded(object sender, EventArgs e)
